@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RABC_App/static/css/main.01db4306.css",
+    "main.js": "/RABC_App/static/js/main.01fa61f4.js",
+    "static/js/453.6c1cbab6.chunk.js": "/RABC_App/static/js/453.6c1cbab6.chunk.js",
+    "index.html": "/RABC_App/index.html",
+    "main.01db4306.css.map": "/RABC_App/static/css/main.01db4306.css.map",
+    "main.01fa61f4.js.map": "/RABC_App/static/js/main.01fa61f4.js.map",
+    "453.6c1cbab6.chunk.js.map": "/RABC_App/static/js/453.6c1cbab6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01db4306.css",
+    "static/js/main.01fa61f4.js"
+  ]
+}
